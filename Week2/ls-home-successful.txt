@@ -1,0 +1,39 @@
+/home/lkaranko:
+18.06.1~ce~3-0~ubuntu
+Algoritmit Ongelmanratkaisussa
+CodeGold2017Elpankaa.odt
+datascience
+Desktop
+doc
+Documents
+Downloads
+epäonnistunutTsoha
+examples.desktop
+Git-Repo
+hs_err_pid6165.log
+HY-vpn-CA.pem
+ihanaUML.png
+Johdanto.odt
+ls-home-successful.txt
+ls-unsuccessful.txt
+Music
+NetBeansProjects
+openvpn.conf
+Pictures
+ProgramsforProgramming
+Public
+Robots
+RubyKurssi
+Shellscripting2019
+snap
+Steam
+Tehtavat
+Templates
+tmc-langs.log
+Untitled 1.odt
+users.cs.helsinki
+users.cs.helsinki.pub
+Vanhat Git-Projektit
+Videos
+weka-3-8-1
+wekafiles

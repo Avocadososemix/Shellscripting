@@ -1,0 +1,1 @@
+ls ~ fakefolder > $PWD/ls-home-successful.txt 2> $PWD/ls-home-unsuccessful.txt

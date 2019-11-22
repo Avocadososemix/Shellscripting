@@ -1,0 +1,24 @@
+drwxrwx---  3 lkaranko lkaranko   4096 Jan 15  2019 Algoritmit Ongelmanratkaisussa
+drwxrwx---  4 lkaranko lkaranko   4096 Oct 21 13:42 datascience
+drwxr-xr-x  5 lkaranko lkaranko   4096 Oct 12 10:11 Desktop
+drwxrwx---  2 lkaranko lkaranko   4096 Sep 14  2017 doc
+drwxrwxrwx  2 lkaranko lkaranko   4096 Nov 30  2016 Documents
+drwxrwxrwx 10 lkaranko lkaranko   4096 Oct 21 12:29 Downloads
+drwxrwx--- 11 lkaranko lkaranko   4096 Sep 14  2017 epäonnistunutTsoha
+drwxrwx--- 23 lkaranko lkaranko   4096 Nov 10 21:40 Git-Repo
+drwxrwxrwx  2 lkaranko lkaranko   4096 Nov 30  2016 Music
+drwxrwx--- 28 lkaranko lkaranko   4096 Nov 19  2017 NetBeansProjects
+drwxrwxrwx  2 lkaranko lkaranko   4096 Mar 23  2017 Pictures
+drwxrwx---  2 lkaranko lkaranko   4096 Nov 20  2018 ProgramsforProgramming
+drwxrwxrwx  2 lkaranko lkaranko   4096 Nov 30  2016 Public
+drwxrwx---  7 lkaranko lkaranko   4096 Oct 13 07:59 Robots
+drwxrwx---  4 lkaranko lkaranko   4096 Oct 11  2018 RubyKurssi
+drwxrwx---  3 lkaranko lkaranko   4096 Nov 10 22:22 Shellscripting2019
+drwxr-x---  3 lkaranko lkaranko   4096 Sep 13  2018 snap
+drwxrwx---  3 lkaranko lkaranko   4096 Dec 22  2017 Steam
+drwxrwx---  4 lkaranko lkaranko   4096 Jan 15  2019 Tehtavat
+drwxrwxrwx  2 lkaranko lkaranko   4096 Nov 30  2016 Templates
+drwxrwx---  4 lkaranko lkaranko   4096 Nov  5  2017 Vanhat Git-Projektit
+drwxrwxrwx  2 lkaranko lkaranko   4096 Nov 30  2016 Videos
+drwxr-x---  5 lkaranko lkaranko   4096 Oct 10  2017 weka-3-8-1
+drwxrwx---  7 lkaranko lkaranko   4096 Oct 11  2017 wekafiles
